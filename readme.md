@@ -1,0 +1,1 @@
+Requires Guzzle v7.8 , install avec composer require guzzlehttp/guzzle
